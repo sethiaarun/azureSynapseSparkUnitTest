@@ -3,6 +3,9 @@ package azure.synapse.notebook.example.bl
 import org.apache.spark.sql.expressions.UserDefinedFunction
 import org.apache.spark.sql.functions.udf
 
+/**
+ * UDF Functions for Transformations
+ */
 object UdfFunction {
 
     /**
